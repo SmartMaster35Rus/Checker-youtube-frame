@@ -1,3 +1,5 @@
+![picture](picture.png)
+
 Hi there! Here's an example of a `readme.md` file description for your GitHub repository:
 
 # Video Embed Checker
